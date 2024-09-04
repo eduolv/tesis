@@ -48,7 +48,7 @@ export default function Home() {
       </Head>
 
       <header className="bg-gray-100 text-gray-800 p-10">
-        <div className="container mx-auto flex justify-between items-center">
+        <div>
           <img src="/logo.png" alt="Logo da Empresa" className="h-8" />
         </div>
       </header>
