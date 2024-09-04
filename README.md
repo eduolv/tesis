@@ -1,6 +1,3 @@
-<h1 align="center"> 
- 🔹Landing Page | Tesis
-</h1>
 <div align="center">
 <img width="50%" src="https://github.com/eduolv/tesis/blob/main/public/logo.png">
 </div>
