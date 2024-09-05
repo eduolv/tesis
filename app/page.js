@@ -55,15 +55,12 @@ export default function Home() {
         <div className="md:w-1/2 text-white">
           <h2 className="text-4xl font-bold">Desenvolvimento e gestão de serviços tecnológicos!</h2>
           <p className="text-xl mt-4">
-            {' '}
             <span className="text-lime-300">➔</span> Gestão técnica de Programas Setoriais da Qualidade
           </p>
           <p className="text-xl mt-4">
-            {' '}
             <span className="text-lime-300">➔</span> Avaliação de produtos inovadores para construção civil
           </p>
           <p className="text-xl mt-4">
-            {' '}
             <span className="text-lime-300">➔</span> Realização de ensaios de materiais de construção
           </p>
         </div>
