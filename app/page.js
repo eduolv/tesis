@@ -48,9 +48,7 @@ export default function Home() {
       </Head>
 
       <header className="bg-gray-100 text-gray-800 p-10">
-        <div>
           <img src="/logo.png" alt="Logo da Empresa" className="h-8" />
-        </div>
       </header>
 
       <main className="bg-gradient-to-b from-blue-700 to-blue-900 p-10 flex flex-col md:flex-row items-center justify-between">
